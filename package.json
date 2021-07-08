@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "custom-event-polyfill": "^1.0.7",
+    "element-matches": "^0.1.2",
     "vue": "^2.6.11",
     "vue-shortkey": "^3.1.7"
   },

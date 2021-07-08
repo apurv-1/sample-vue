@@ -24,7 +24,7 @@
     </button>
     <button
       v-on:click="alertFunction('Clicked!!')"
-      v-shortkey="['d']"
+      v-shortkey="['k','d']"
       @shortkey="alertFunction('pressed d')"
     >
       d
